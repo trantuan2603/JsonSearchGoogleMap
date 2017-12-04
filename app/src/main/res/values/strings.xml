@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JsonSearchGoogleMap</string>
+    <string name="setting">Settings</string>
+    <string name="refresh">Refresh</string>
+</resources>
